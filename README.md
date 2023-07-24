@@ -1,5 +1,5 @@
 # RUXpyN-Pi4
-The working version of RUXpyN for Raspberry Pi 4
+The working version of RUXpyN for Raspberry Pi 4 B with 8GB
 
 created by Alicia Ramos and Bryan Toscano 'hyde'
 
