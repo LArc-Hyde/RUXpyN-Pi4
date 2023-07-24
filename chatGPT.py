@@ -23,7 +23,7 @@ class ChatGPT:
 	def start_chat(self):
 		microphone = GSpeech2Text.Speech2Text()
 		while True:
-			#message = input("User : ")
+			#message captured from microphone
 			message = str(microphone.capture_noisy())
 			print(message)
 			if message.lower() == 'quit': #makes sure this an easy way to quit
